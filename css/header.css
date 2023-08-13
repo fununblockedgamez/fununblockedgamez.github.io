@@ -10,6 +10,7 @@
 	position:relative;
 	z-index:99;
 	width:100%;
+	margin: -20px;
 }
 
 .main-header .header-upper{
@@ -52,6 +53,7 @@
 }
 
 .main-header .logo-box .logo img{
+	padding-top: 15px;
 	display:inline-block;
 	max-width:100%;
 	-webkit-transition:all 300ms ease;
